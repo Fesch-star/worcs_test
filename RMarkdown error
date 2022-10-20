@@ -1,0 +1,7 @@
+Error: package 'markdown' is not available
+In addition: Warning messages:
+1: could not retrieve available packages for url "https://cran.rstudio.com/src/contrib" 
+2: could not retrieve available packages for url "https://cran.rstudio.com/bin/windows/contrib/4.0" 
+3: curl: (35) schannel: next InitializeSecurityContext failed: Unknown error (0x80092012) - De intrekkingsfunctie kan het intrekken van het certificaat niet controleren. 
+4: package 'markdown' is not available 
+5: failed to retrieve 'https://rstudio-buildtools.s3.amazonaws.com/renv/mran/packages.rds' [error code 35] 

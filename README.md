@@ -1,6 +1,7 @@
 # Readme <a href='https://osf.io/zcvbs/'><img src='worcs_icon.png' align="right" height="139" /></a>
 
 <!-- Please add a brief introduction to explain what the project is about    -->
+Once the coding stage of your cognitive mapping (CM) project is done, there are many analyses and calculations you can do. Find some useful functions here to help you analyse your CM data
 
 ## Where do I start?
 
@@ -25,6 +26,11 @@ renv.lock                 | Reproducible R environment       | Read only
 <!--  * Contact information for questions/comments                           -->
 <!--  * How people can offer to contribute to the project                    -->
 <!--  * A contributor code of conduct, https://www.contributor-covenant.org/ -->
+
+When using this code please add the following reference: 
+Van Esch, F. A. W. J., Snellens, J.F.A. (forthcoming). How to ‘Measure’ Ideas. Introducing the Method of Cognitive Mapping to the Domain of Ideational Policy Studies. Journal of European Public Policy
+
+If you have any questions about this project, please reach out to Femke van Esch @ F.a.w.j.vanesch@uu.nl
 
 # Reproducibility
 
